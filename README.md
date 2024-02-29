@@ -8,6 +8,8 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismaelsants&layout=compact&langs_count=8&card_width=320" />
 </a>
 
+<br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourUser/ismaelsants/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourUser/ismaelsants/output/github-contribution-grid-snake.svg">
