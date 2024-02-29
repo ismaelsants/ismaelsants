@@ -4,6 +4,10 @@
 - 📚 Estudando Typescript e Back-end
 - 🖥️ Conhecimento em Front-end
 
+<div>
+  <img srf="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5"/>
+</div>
+
 <br/>
 
 <picture>
