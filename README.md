@@ -1,3 +1,5 @@
+<div style="display: block, justify-content: center">
+
 ## Ola! Sou o Ismael Santos 👋 (̶◉͛‿◉̶)
 
 - 💼 Hoje trabalho como supervisor de planejamento(callcenter)
@@ -27,3 +29,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ismaelsants/ismaelsants/output/github-contribution-grid-snake.svg">
 </picture>
 
+</div>
