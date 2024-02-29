@@ -8,4 +8,4 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismaelsants&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-<a href="https://gitstar-ranking.com/ismaelsants" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/ismaelsants/ismaelsants/master/assets/github-snake.svg" /></a>
+[!Snake animation]https://github.com/ismaelsants
