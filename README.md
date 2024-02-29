@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100vh;">
 
 ## Ola! Sou o Ismael Santos 👋 (̶◉͛‿◉̶)
 
