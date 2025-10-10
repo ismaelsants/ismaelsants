@@ -1,6 +1,6 @@
 ## Ola! Sou o Ismael Santos 👋 (̶◉͛‿◉̶)
 
-- 💼 Hoje trabalho como supervisor de planejamento(callcenter)
+- 💼 Hoje trabalho como supervisor de Controle
 - 📚 Estudando Typescript e Back-end
 - 🖥️ Conhecimento em Front-end
 
