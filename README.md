@@ -1,7 +1,8 @@
 ## Ola! Sou o Ismael Santos 👋 (̶◉͛‿◉̶)
 
-- 💼 Hoje trabalho como supervisor de Controle
-- 📚 Estudando Typescript e Back-end
+- 💼 Hoje trabalho como Supervisor de Controle
+- 🏛️ Cursando Analise e Desenvolvimento de Sistemas
+- 📚 Estudando Back-end
 - 🖥️ Conhecimento em Front-end
 
 <div style="display: inline_block"><br>
